@@ -10,7 +10,7 @@ public class OddEvenWeird {
         else {
             if (n>=2 && n<=5) {
                 System.out.println("not weired");
-        } else if (n>=5 && n<=30){
+        } else if (n>=5 && n<=30) {
 
                 System.out.println("weird");
             }
