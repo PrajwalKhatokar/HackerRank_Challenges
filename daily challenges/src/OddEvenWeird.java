@@ -12,7 +12,6 @@ public class OddEvenWeird {
                 System.out.println("not weired");
         } else if (n>=5 && n<=30) {
                 System.out.println("weird");
-
             }
             else{
                 System.out.println("not weried");
